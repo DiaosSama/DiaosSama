@@ -18,4 +18,4 @@ jobs:
           commit_message: Updated social rss by social-readme
           steam_api_key: ${{ secrets.STEAM_API_KEY }}
           steam_game_limit: 5
-          steam_user_id64: 76561198283459853
+          steam_user_id64: "76561198283459853"
