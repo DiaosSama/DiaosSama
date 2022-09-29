@@ -4,18 +4,18 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - master
 
 jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: DiaosSama/profile_beautify_action@main
         with:
           blog_rss_link: https://www.diaossama.work/atom.xml
           blog_limit: 5
           douban_name: DiaosSama
           douban_limit: 5
           commit_message: Updated social rss by social-readme
+          steam_api_key: ${{ secrets.STEAM_API_KEY }}
+          steam_game_limit: 5
+          steam_user_id64: 76561198283459853
