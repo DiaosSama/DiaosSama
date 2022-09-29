@@ -9,6 +9,12 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=Steam&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamGames%26queryKey%3D76561198283459853&amp;suffix=%20Games&amp;logo=steam&amp;labelColor=134375&amp;color=0b1a37&amp;longCache=true" />
 </p>
 
+<table>
+<tr>
+<td valign="middle" width="50%">
+
+- 🖥 Senior Security Engineer of Tencent      
+      
 - 🌱 I’m currently learning **Linux Kernel, eBPF and Kubernetes Security**
 
 - 📝 This is my blog **[https://www.diaossama.work](https://www.diaossama.work)**
@@ -19,16 +25,32 @@
 
 - 🎮 Love Games, Singing and etc.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaossama&show_icons=true&include_all_commits=true" alt="diaossama" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaossama&show_icons=true&hide=javascript,html" alt="diaossama" /></p>
-<p></p>
+</td>
+<td valign="middle" width="50%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaossama&show_icons=true&include_all_commits=true" alt="diaossama" />
+</td>
+</tr>
+  
+<tr>
+<td valign="top" width="50%">
 
-### 📚 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Shiro反序列化漏洞复现](https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html)
-- [Windows Terminal美化+PowerShell插件配置](https://www.diaossama.work/2020/05/windows-terminal-powershell.html)
-- [关于Python的继承与多态](https://www.diaossama.work/2020/04/python-inherit-polymorphic.html)
-- [SQL注入总结归纳](https://www.diaossama.work/2020/03/sql-injection-summary.html)
-<!-- BLOG-POST-LIST:END -->
+#### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+      
+</td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
+</td>
+</tr> 
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
