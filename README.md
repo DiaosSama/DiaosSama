@@ -37,6 +37,11 @@
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html' target='_blank'>Shiro反序列化漏洞复现</a> - 
+* <a href='https://www.diaossama.work/2020/05/windows-terminal-powershell.html' target='_blank'>Windows Terminal美化+PowerShell插件配置</a> - 
+* <a href='https://www.diaossama.work/2020/04/python-inherit-polymorphic.html' target='_blank'>关于Python的继承与多态</a> - 
+* <a href='https://www.diaossama.work/2020/03/sql-injection-summary.html' target='_blank'>SQL注入总结归纳</a> - 
+* <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - Mon, 09 Mar 2020 05:30:19 GM
 <!-- END_SECTION:blog -->
       
 </td>
@@ -45,6 +50,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35212079/' target='_blank'>想看谁是超级英雄</a> - 2022-07-24
+* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>想看梦华录</a> - 2022-06-10
+* <a href='http://www.douban.com/game/25961380/' target='_blank'>玩过星之卡比：镜之迷宫 星のカービィ 鏡の大迷宮</a> - 2022-06-07
+* <a href='http://www.douban.com/game/30164614/' target='_blank'>玩过任天堂明星大乱斗：特别版 大乱闘スマッシュブラザーズ SPECIAL</a> - 2022-06-07
+* <a href='http://www.douban.com/game/34824349/' target='_blank'>最近在玩健身环大冒险 Ring Fit Adventure</a> - 2022-06-07
 <!-- END_SECTION:douban -->
 
 </td>
