@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=Steam&amp;query=%24.data.totalSubs&amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamGames%26queryKey%3D76561198283459853&amp;suffix=%20Games&amp;logo=steam&amp;labelColor=134375&amp;color=0b1a37&amp;longCache=true" />
 </p>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaossama&show_icons=true&include_all_commits=true" alt="diaossama" />
+</p>
+
 <table>
 <tr>
 <td valign="middle" width="50%">
@@ -26,12 +30,6 @@
 - 🎮 Love Games, Singing and etc.
 
 </td>
-<td valign="middle" width="50%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaossama&show_icons=true&include_all_commits=true" alt="diaossama" />
-</td>
-</tr>
-  
-<tr>
 <td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
@@ -44,6 +42,20 @@
 * <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - 2020-03-09
 <!-- END_SECTION:blog -->
       
+</td>
+</tr>
+  
+<tr>
+<td valign="top" width="50%">
+
+#### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
+<!-- START_SECTION:steam_game -->
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 32.35 h
+* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 0.77 h
+* <a href='https://store.steampowered.com/app/1551360' target='_blank'>Forza Horizon 5</a> - 最近游戏时长: 0.08 h
+* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.02 h
+<!-- END_SECTION:steam_game -->
+
 </td>
 <td valign="top" width="50%">
 
