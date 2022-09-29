@@ -1,15 +1,21 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-    workflow_dispatch:
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://www.diaossama.work/rss2.xml"
+name: Social Readme
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://www.diaossama.work/rss2.xml
+          blog_limit: 5
+          douban_name: DiaosSama
+          douban_limit: 5
+          commit_message: Updated social rss by social-readme
