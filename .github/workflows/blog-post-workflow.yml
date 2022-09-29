@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://www.diaossama.work/rss2.xml
+          blog_rss_link: https://www.diaossama.work/atom.xml
           blog_limit: 5
           douban_name: DiaosSama
           douban_limit: 5
