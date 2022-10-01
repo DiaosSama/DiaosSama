@@ -53,7 +53,7 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 34.77 h - 总时长: 533.63 h
-* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 3.55 h - 总时长: 3.55 h
+* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 4.07 h - 总时长: 4.07 h
 <!-- END_SECTION:steam_game -->
 
 </td>
