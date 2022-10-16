@@ -54,7 +54,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 18.98 h - 总时长: 24.07 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 11.60 h - 总时长: 546.17 h
-* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 2.18 h - 总时长: 2.73 h
+* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 1.22 h - 总时长: 2.73 h
 <!-- END_SECTION:steam_game -->
 
 </td>
