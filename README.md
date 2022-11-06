@@ -55,7 +55,7 @@
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 3.67 h - 总时长: 43.85 h
 * <a href='https://store.steampowered.com/app/1504980' target='_blank'>It Takes Two Friend's Pass</a> - 最近游戏时长: 1.52 h - 总时长: 1.52 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 1.52 h - 总时长: 4.27 h
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 0.98 h - 总时长: 549.15 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 0.70 h - 总时长: 549.15 h
 <!-- END_SECTION:steam_game -->
 
 </td>
