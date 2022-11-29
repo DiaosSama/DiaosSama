@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 4.28 h - 总时长: 11.80 h
+* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 4.18 h - 总时长: 11.80 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 3.70 h - 总时长: 554.38 h
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 0.80 h - 总时长: 44.73 h
 * <a href='https://store.steampowered.com/app/774171' target='_blank'>Muse Dash</a> - 最近游戏时长: 0.03 h - 总时长: 5.70 h
@@ -65,11 +65,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://www.douban.com/game/30453625/' target='_blank'>最近在玩Apex英雄 Apex Legends</a> - 2022-09-29
-* <a href='http://movie.douban.com/subject/35118256/' target='_blank'>在看赛博朋克：边缘行者</a> - 2022-09-29
-* <a href='http://movie.douban.com/subject/35212079/' target='_blank'>想看谁是超级英雄</a> - 2022-07-24
-* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>想看梦华录</a> - 2022-06-10
-* <a href='http://www.douban.com/game/25961380/' target='_blank'>玩过星之卡比：镜之迷宫 星のカービィ 鏡の大迷宮</a> - 2022-06-07
+
 <!-- END_SECTION:douban -->
 
 </td>
