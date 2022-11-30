@@ -53,7 +53,7 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 4.18 h - 总时长: 11.80 h
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 3.42 h - 总时长: 554.38 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 3.15 h - 总时长: 554.38 h
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 0.80 h - 总时长: 44.73 h
 * <a href='https://store.steampowered.com/app/774171' target='_blank'>Muse Dash</a> - 最近游戏时长: 0.03 h - 总时长: 5.70 h
 * <a href='https://store.steampowered.com/app/1325860' target='_blank'>VTube Studio</a> - 最近游戏时长: 0.02 h - 总时长: 19.35 h
