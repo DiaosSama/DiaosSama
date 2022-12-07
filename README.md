@@ -54,6 +54,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 5.37 h - 总时长: 556.60 h
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 0.80 h - 总时长: 44.73 h
+* <a href='https://store.steampowered.com/app/550' target='_blank'>Left 4 Dead 2</a> - 最近游戏时长: 0.50 h - 总时长: 2.53 h
 <!-- END_SECTION:steam_game -->
 
 </td>
