@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 6.45 h - 总时长: 51.18 h
+* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 7.68 h - 总时长: 52.43 h
 * <a href='https://store.steampowered.com/app/1504980' target='_blank'>It Takes Two Friend's Pass</a> - 最近游戏时长: 5.22 h - 总时长: 6.75 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 5.22 h - 总时长: 17.03 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.90 h - 总时长: 558.37 h
