@@ -56,7 +56,7 @@
 * <a href='https://store.steampowered.com/app/1504980' target='_blank'>It Takes Two Friend's Pass</a> - 最近游戏时长: 5.22 h - 总时长: 6.75 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 5.22 h - 总时长: 17.03 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.30 h - 总时长: 558.92 h
-* <a href='https://store.steampowered.com/app/550' target='_blank'>Left 4 Dead 2</a> - 最近游戏时长: 1.93 h - 总时长: 4.83 h
+* <a href='https://store.steampowered.com/app/550' target='_blank'>Left 4 Dead 2</a> - 最近游戏时长: 1.65 h - 总时长: 4.83 h
 <!-- END_SECTION:steam_game -->
 
 </td>
