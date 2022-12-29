@@ -55,7 +55,7 @@
 * <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 3.80 h - 总时长: 52.43 h
 * <a href='https://store.steampowered.com/app/550' target='_blank'>Left 4 Dead 2</a> - 最近游戏时长: 2.30 h - 总时长: 5.48 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.20 h - 总时长: 560.57 h
-* <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 0.10 h - 总时长: 0.22 h
+* <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 0.07 h - 总时长: 0.22 h
 <!-- END_SECTION:steam_game -->
 
 </td>
