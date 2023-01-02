@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1238840' target='_blank'>Battlefield 1 ™</a> - 最近游戏时长: 2.63 h - 总时长: 80.22 h
+* <a href='https://store.steampowered.com/app/1238840' target='_blank'>Battlefield 1 ™</a> - 最近游戏时长: 3.65 h - 总时长: 81.23 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.50 h - 总时长: 561.42 h
 * <a href='https://store.steampowered.com/app/550' target='_blank'>Left 4 Dead 2</a> - 最近游戏时长: 0.63 h - 总时长: 5.48 h
 <!-- END_SECTION:steam_game -->
