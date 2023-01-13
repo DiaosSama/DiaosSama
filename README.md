@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 5.75 h - 总时长: 566.82 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 5.38 h - 总时长: 566.82 h
 * <a href='https://store.steampowered.com/app/1238840' target='_blank'>Battlefield 1 ™</a> - 最近游戏时长: 5.18 h - 总时长: 82.77 h
 <!-- END_SECTION:steam_game -->
 
