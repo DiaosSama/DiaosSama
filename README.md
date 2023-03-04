@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 10.42 h - 总时长: 597.70 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 10.10 h - 总时长: 597.70 h
 * <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 4.57 h - 总时长: 19.60 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.20 h - 总时长: 85.37 h
 <!-- END_SECTION:steam_game -->
