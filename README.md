@@ -54,7 +54,6 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 7.18 h - 总时长: 604.88 h
 * <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 2.20 h - 总时长: 20.00 h
-* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.02 h - 总时长: 85.37 h
 <!-- END_SECTION:steam_game -->
 
 </td>
