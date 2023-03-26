@@ -63,11 +63,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35371261/' target='_blank'>想看铃芽之旅</a> - 2023-03-23
-* <a href='http://www.douban.com/game/30453625/' target='_blank'>最近在玩Apex英雄 Apex Legends</a> - 2022-09-29
-* <a href='http://movie.douban.com/subject/35118256/' target='_blank'>在看赛博朋克：边缘行者</a> - 2022-09-29
-* <a href='http://movie.douban.com/subject/35212079/' target='_blank'>想看谁是超级英雄</a> - 2022-07-24
-* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>想看梦华录</a> - 2022-06-10
+* <a href='http://movie.douban.com/subject/20470074/' target='_blank'>看过言叶之庭</a> - 2023-03-26
+* <a href='http://movie.douban.com/subject/30402296/' target='_blank'>看过天气之子</a> - 2023-03-26
+* <a href='http://movie.douban.com/subject/2043546/' target='_blank'>看过秒速5厘米</a> - 2023-03-26
+* <a href='http://movie.douban.com/subject/26683290/' target='_blank'>看过你的名字。</a> - 2023-03-26
+* <a href='http://movie.douban.com/subject/35371261/' target='_blank'>看过铃芽之旅</a> - 2023-03-26
 <!-- END_SECTION:douban -->
 
 </td>
