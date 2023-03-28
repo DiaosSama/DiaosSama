@@ -54,7 +54,6 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 17.18 h - 总时长: 17.18 h
 * <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 0.23 h - 总时长: 20.23 h
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 0.07 h - 总时长: 604.88 h
 <!-- END_SECTION:steam_game -->
 
 </td>
