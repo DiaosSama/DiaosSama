@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 17.77 h - 总时长: 19.05 h
+* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 18.13 h - 总时长: 20.05 h
 <!-- END_SECTION:steam_game -->
 
 </td>
