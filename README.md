@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 18.15 h - 总时长: 27.77 h
+* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 17.73 h - 总时长: 27.77 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.08 h - 总时长: 606.98 h
 <!-- END_SECTION:steam_game -->
 
@@ -62,11 +62,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/5323968/' target='_blank'>看过环太平洋</a> - 2023-04-02
-* <a href='http://movie.douban.com/subject/20470074/' target='_blank'>看过言叶之庭</a> - 2023-03-26
-* <a href='http://movie.douban.com/subject/30402296/' target='_blank'>看过天气之子</a> - 2023-03-26
-* <a href='http://movie.douban.com/subject/2043546/' target='_blank'>看过秒速5厘米</a> - 2023-03-26
-* <a href='http://movie.douban.com/subject/26683290/' target='_blank'>看过你的名字。</a> - 2023-03-26
+
 <!-- END_SECTION:douban -->
 
 </td>
