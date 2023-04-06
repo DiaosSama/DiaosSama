@@ -53,8 +53,8 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 13.70 h - 总时长: 28.08 h
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 5.40 h - 总时长: 610.28 h
-* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.12 h - 总时长: 85.50 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 5.57 h - 总时长: 610.45 h
+* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.68 h - 总时长: 86.07 h
 <!-- END_SECTION:steam_game -->
 
 </td>
