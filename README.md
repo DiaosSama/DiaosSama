@@ -52,7 +52,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 4.08 h - 总时长: 614.55 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 3.28 h - 总时长: 614.55 h
+* <a href='https://store.steampowered.com/app/1097150' target='_blank'>Fall Guys</a> - 最近游戏时长: 0.05 h - 总时长: 3.80 h
 <!-- END_SECTION:steam_game -->
 
 </td>
