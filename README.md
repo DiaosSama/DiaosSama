@@ -62,11 +62,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>想看花束般的恋爱</a> - 2023-04-22
-* <a href='http://movie.douban.com/subject/5323968/' target='_blank'>看过环太平洋</a> - 2023-04-02
-* <a href='http://movie.douban.com/subject/20470074/' target='_blank'>看过言叶之庭</a> - 2023-03-26
-* <a href='http://movie.douban.com/subject/30402296/' target='_blank'>看过天气之子</a> - 2023-03-26
-* <a href='http://movie.douban.com/subject/2043546/' target='_blank'>看过秒速5厘米</a> - 2023-03-26
+
 <!-- END_SECTION:douban -->
 
 </td>
