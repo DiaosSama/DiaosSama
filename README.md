@@ -52,8 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/644560' target='_blank'>Mirror</a> - 最近游戏时长: 8.22 h - 总时长: 14.60 h
-* <a href='https://store.steampowered.com/app/1097150' target='_blank'>Fall Guys</a> - 最近游戏时长: 0.05 h - 总时长: 3.80 h
+* <a href='https://store.steampowered.com/app/644560' target='_blank'>Mirror</a> - 最近游戏时长: 8.07 h - 总时长: 14.60 h
 <!-- END_SECTION:steam_game -->
 
 </td>
