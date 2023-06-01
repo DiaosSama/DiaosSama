@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 0.73 h - 总时长: 17.78 h
+* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 1.60 h - 总时长: 18.63 h
 <!-- END_SECTION:steam_game -->
 
 </td>
