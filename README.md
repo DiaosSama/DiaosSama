@@ -37,7 +37,11 @@
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html' target='_blank'>Shiro反序列化漏洞复现</a> - 2020-06-30
+* <a href='https://www.diaossama.work/2020/05/windows-terminal-powershell.html' target='_blank'>Windows Terminal美化+PowerShell插件配置</a> - 2020-05-07
+* <a href='https://www.diaossama.work/2020/04/python-inherit-polymorphic.html' target='_blank'>关于Python的继承与多态</a> - 2020-04-02
+* <a href='https://www.diaossama.work/2020/03/sql-injection-summary.html' target='_blank'>SQL注入总结归纳</a> - 2020-03-10
+* <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - 2020-03-09
 <!-- END_SECTION:blog -->
       
 </td>
@@ -57,7 +61,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/35705627/' target='_blank'>想看通往夏天的隧道，离别的出口</a> - 2023-06-03
+* <a href='http://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2023-05-25
+* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>想看花束般的恋爱</a> - 2023-04-22
+* <a href='http://movie.douban.com/subject/5323968/' target='_blank'>看过环太平洋</a> - 2023-04-02
+* <a href='http://movie.douban.com/subject/20470074/' target='_blank'>看过言叶之庭</a> - 2023-03-26
 <!-- END_SECTION:douban -->
 
 </td>
