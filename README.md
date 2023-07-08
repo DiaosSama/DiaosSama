@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 1.88 h - 总时长: 620.22 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 0.88 h - 总时长: 620.22 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 0.28 h - 总时长: 18.93 h
 * <a href='https://store.steampowered.com/app/1451940' target='_blank'>NEEDY GIRL OVERDOSE</a> - 最近游戏时长: 0.23 h - 总时长: 0.23 h
 <!-- END_SECTION:steam_game -->
