@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 3.45 h - 总时长: 620.22 h
+* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 2.42 h - 总时长: 620.22 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 0.28 h - 总时长: 18.93 h
 * <a href='https://store.steampowered.com/app/1451940' target='_blank'>NEEDY GIRL OVERDOSE</a> - 最近游戏时长: 0.23 h - 总时长: 0.23 h
 <!-- END_SECTION:steam_game -->
@@ -63,11 +63,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35705627/' target='_blank'>想看通往夏天的隧道，离别的出口</a> - 2023-06-03
-* <a href='http://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2023-05-25
-* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>想看花束般的恋爱</a> - 2023-04-22
-* <a href='http://movie.douban.com/subject/5323968/' target='_blank'>看过环太平洋</a> - 2023-04-02
-* <a href='http://movie.douban.com/subject/20470074/' target='_blank'>看过言叶之庭</a> - 2023-03-26
+
 <!-- END_SECTION:douban -->
 
 </td>
