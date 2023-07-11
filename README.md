@@ -54,7 +54,6 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/526870' target='_blank'>Satisfactory</a> - 最近游戏时长: 1.52 h - 总时长: 1.52 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.90 h - 总时长: 87.28 h
-* <a href='https://store.steampowered.com/app/1451940' target='_blank'>NEEDY GIRL OVERDOSE</a> - 最近游戏时长: 0.23 h - 总时长: 0.23 h
 <!-- END_SECTION:steam_game -->
 
 </td>
