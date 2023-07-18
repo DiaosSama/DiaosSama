@@ -63,7 +63,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/35172742/' target='_blank'>想看当我飞奔向你</a> - 2023-07-17
+* <a href='http://movie.douban.com/subject/30158971/' target='_blank'>想看企鹅公路</a> - 2023-07-14
+* <a href='http://movie.douban.com/subject/1310177/' target='_blank'>想看东京教父</a> - 2023-07-14
+* <a href='http://movie.douban.com/subject/26972688/' target='_blank'>想看三流之路</a> - 2023-07-10
+* <a href='http://movie.douban.com/subject/35118256/' target='_blank'>看过赛博朋克：边缘行者</a> - 2023-07-10
 <!-- END_SECTION:douban -->
 
 </td>
