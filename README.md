@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 0.67 h - 总时长: 621.22 h
+* <a href='https://store.steampowered.com/app/1091500' target='_blank'>Cyberpunk 2077</a> - 最近游戏时长: 0.05 h - 总时长: 52.48 h
 <!-- END_SECTION:steam_game -->
 
 </td>
@@ -61,11 +61,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35267224/' target='_blank'>看过孤注一掷</a> - 2023-08-20
+* <a href='http://movie.douban.com/subject/36251546/' target='_blank'>想看一兆游戏</a> - 2023-08-11
+* <a href='http://movie.douban.com/subject/35839999/' target='_blank'>想看不良执念清除师</a> - 2023-08-04
+* <a href='http://movie.douban.com/subject/10756863/' target='_blank'>想看有钱男与贫穷女</a> - 2023-08-04
 * <a href='http://movie.douban.com/subject/1308655/' target='_blank'>想看新扎师妹</a> - 2023-07-23
-* <a href='http://movie.douban.com/subject/35172742/' target='_blank'>想看当我飞奔向你</a> - 2023-07-17
-* <a href='http://movie.douban.com/subject/30158971/' target='_blank'>想看企鹅公路</a> - 2023-07-14
-* <a href='http://movie.douban.com/subject/1310177/' target='_blank'>想看东京教父</a> - 2023-07-14
-* <a href='http://movie.douban.com/subject/26972688/' target='_blank'>想看三流之路</a> - 2023-07-10
 <!-- END_SECTION:douban -->
 
 </td>
