@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1517290' target='_blank'>Battlefield™ 2042</a> - 最近游戏时长: 1.23 h - 总时长: 16.83 h
+* <a href='https://store.steampowered.com/app/1517290' target='_blank'>Battlefield™ 2042</a> - 最近游戏时长: 2.25 h - 总时长: 17.83 h
 * <a href='https://store.steampowered.com/app/730' target='_blank'>Counter-Strike 2</a> - 最近游戏时长: 0.03 h - 总时长: 129.63 h
 <!-- END_SECTION:steam_game -->
 
