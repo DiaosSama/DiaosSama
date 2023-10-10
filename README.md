@@ -62,7 +62,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/35267224/' target='_blank'>看过孤注一掷</a> - 2023-08-20
+* <a href='http://movie.douban.com/subject/36251546/' target='_blank'>想看一兆游戏</a> - 2023-08-11
+* <a href='http://movie.douban.com/subject/35839999/' target='_blank'>想看不良执念清除师</a> - 2023-08-04
+* <a href='http://movie.douban.com/subject/10756863/' target='_blank'>想看有钱男与贫穷女</a> - 2023-08-04
+* <a href='http://movie.douban.com/subject/1308655/' target='_blank'>想看新扎师妹</a> - 2023-07-23
 <!-- END_SECTION:douban -->
 
 </td>
