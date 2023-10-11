@@ -62,11 +62,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35073886/' target='_blank'>看过分手的决心</a> - 2023-10-11
-* <a href='http://movie.douban.com/subject/35267224/' target='_blank'>看过孤注一掷</a> - 2023-08-20
-* <a href='http://movie.douban.com/subject/36251546/' target='_blank'>想看一兆游戏</a> - 2023-08-11
-* <a href='http://movie.douban.com/subject/35839999/' target='_blank'>想看不良执念清除师</a> - 2023-08-04
-* <a href='http://movie.douban.com/subject/10756863/' target='_blank'>想看有钱男与贫穷女</a> - 2023-08-04
+* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/26752088/' target='_blank'>看过我不是药神</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/5912992/' target='_blank'>想看熔炉</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/25662329/' target='_blank'>想看疯狂动物城</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/3541415/' target='_blank'>想看盗梦空间</a> - 2023-10-12
 <!-- END_SECTION:douban -->
 
 </td>
