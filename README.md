@@ -54,7 +54,6 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1517290' target='_blank'>Battlefield™ 2042</a> - 最近游戏时长: 9.15 h - 总时长: 25.48 h
 * <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 2.18 h - 总时长: 21.13 h
-* <a href='https://store.steampowered.com/app/730' target='_blank'>Counter-Strike 2</a> - 最近游戏时长: 0.03 h - 总时长: 129.63 h
 <!-- END_SECTION:steam_game -->
 
 </td>
