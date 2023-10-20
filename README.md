@@ -52,8 +52,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1517290' target='_blank'>Battlefield™ 2042</a> - 最近游戏时长: 9.15 h - 总时长: 25.48 h
-* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 2.70 h - 总时长: 21.63 h
+* <a href='https://store.steampowered.com/app/1517290' target='_blank'>Battlefield™ 2042</a> - 最近游戏时长: 8.40 h - 总时长: 25.48 h
+* <a href='https://store.steampowered.com/app/1426210' target='_blank'>It Takes Two</a> - 最近游戏时长: 3.88 h - 总时长: 22.83 h
 <!-- END_SECTION:steam_game -->
 
 </td>
