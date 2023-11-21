@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1222680' target='_blank'>Need for Speed™ Heat </a> - 最近游戏时长: 2.72 h - 总时长: 2.72 h
+* <a href='https://store.steampowered.com/app/1222680' target='_blank'>Need for Speed™ Heat </a> - 最近游戏时长: 2.62 h - 总时长: 2.72 h
 <!-- END_SECTION:steam_game -->
 
 </td>
