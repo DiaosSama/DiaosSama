@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 19.92 h - 总时长: 40.77 h
+* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 18.98 h - 总时长: 40.77 h
 <!-- END_SECTION:steam_game -->
 
 </td>
@@ -57,7 +57,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/26752088/' target='_blank'>看过我不是药神</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/5912992/' target='_blank'>想看熔炉</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/25662329/' target='_blank'>想看疯狂动物城</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/3541415/' target='_blank'>想看盗梦空间</a> - 2023-10-12
 <!-- END_SECTION:douban -->
 
 </td>
