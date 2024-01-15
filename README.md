@@ -37,7 +37,11 @@
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html' target='_blank'>Shiro反序列化漏洞复现</a> - 2020-06-30
+* <a href='https://www.diaossama.work/2020/05/windows-terminal-powershell.html' target='_blank'>Windows Terminal美化+PowerShell插件配置</a> - 2020-05-07
+* <a href='https://www.diaossama.work/2020/04/python-inherit-polymorphic.html' target='_blank'>关于Python的继承与多态</a> - 2020-04-02
+* <a href='https://www.diaossama.work/2020/03/sql-injection-summary.html' target='_blank'>SQL注入总结归纳</a> - 2020-03-10
+* <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - 2020-03-09
 <!-- END_SECTION:blog -->
       
 </td>
@@ -48,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 0.52 h - 总时长: 53.35 h
+* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 1.00 h - 总时长: 91.55 h
 <!-- END_SECTION:steam_game -->
 
 </td>
@@ -57,11 +61,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1292220/' target='_blank'>想看情书</a> - 2024-01-14
 * <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
 * <a href='http://movie.douban.com/subject/26752088/' target='_blank'>看过我不是药神</a> - 2023-10-12
 * <a href='http://movie.douban.com/subject/5912992/' target='_blank'>想看熔炉</a> - 2023-10-12
 * <a href='http://movie.douban.com/subject/25662329/' target='_blank'>想看疯狂动物城</a> - 2023-10-12
-* <a href='http://movie.douban.com/subject/3541415/' target='_blank'>想看盗梦空间</a> - 2023-10-12
 <!-- END_SECTION:douban -->
 
 </td>
