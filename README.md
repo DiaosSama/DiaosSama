@@ -62,7 +62,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/35895850/' target='_blank'>想看量产型璃子-模型女子的人生组装记-</a> - 2024-01-16
+* <a href='http://movie.douban.com/subject/1292220/' target='_blank'>想看情书</a> - 2024-01-14
+* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/26752088/' target='_blank'>看过我不是药神</a> - 2023-10-12
+* <a href='http://movie.douban.com/subject/5912992/' target='_blank'>想看熔炉</a> - 2023-10-12
 <!-- END_SECTION:douban -->
 
 </td>
