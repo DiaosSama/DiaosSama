@@ -53,7 +53,7 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 7.55 h - 总时长: 63.42 h
-* <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 2.20 h - 总时长: 23.33 h
+* <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 3.22 h - 总时长: 24.33 h
 <!-- END_SECTION:steam_game -->
 
 </td>
