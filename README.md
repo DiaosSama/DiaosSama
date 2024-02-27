@@ -54,7 +54,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1329410' target='_blank'>雀魂麻将(MahjongSoul)</a> - 最近游戏时长: 7.60 h - 总时长: 28.72 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.43 h - 总时长: 92.52 h
-* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 0.13 h - 总时长: 63.57 h
+* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 0.15 h - 总时长: 63.58 h
 <!-- END_SECTION:steam_game -->
 
 </td>
