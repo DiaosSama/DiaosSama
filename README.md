@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 3.27 h - 总时长: 3.27 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 4.03 h - 总时长: 4.03 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 1.03 h - 总时长: 622.55 h
 <!-- END_SECTION:steam_game -->
 
