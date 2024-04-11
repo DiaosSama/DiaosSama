@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 4.03 h - 总时长: 4.03 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 4.53 h - 总时长: 4.53 h
 * <a href='https://store.steampowered.com/app/1172470' target='_blank'>Apex Legends</a> - 最近游戏时长: 1.03 h - 总时长: 622.55 h
 <!-- END_SECTION:steam_game -->
 
@@ -58,11 +58,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35593780/' target='_blank'>想读工作、消费主义和新穷人</a> - 2024-03-10
-* <a href='http://movie.douban.com/subject/36059104/' target='_blank'>想看珍的不一样 第一季</a> - 2024-02-03
-* <a href='http://movie.douban.com/subject/35895850/' target='_blank'>想看量产型璃子-模型女子的人生组装记-</a> - 2024-01-16
-* <a href='http://movie.douban.com/subject/1292220/' target='_blank'>想看情书</a> - 2024-01-14
-* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
+
 <!-- END_SECTION:douban -->
 
 </td>
