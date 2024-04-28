@@ -50,7 +50,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 22.87 h - 总时长: 29.65 h
 * <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 15.02 h - 总时长: 15.02 h
-* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 0.50 h - 总时长: 29.58 h
+* <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 0.95 h - 总时长: 30.03 h
 <!-- END_SECTION:steam_game -->
 
 </td>
