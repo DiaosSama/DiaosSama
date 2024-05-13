@@ -48,9 +48,10 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 13.12 h - 总时长: 42.77 h
 * <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 13.02 h - 总时长: 29.23 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 12.82 h - 总时长: 42.47 h
 * <a href='https://store.steampowered.com/app/1222670' target='_blank'>The Sims™ 4</a> - 最近游戏时长: 1.05 h - 总时长: 1.05 h
+* <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 0.50 h - 总时长: 0.50 h
 <!-- END_SECTION:steam_game -->
 
 </td>
