@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 14.02 h - 总时长: 29.23 h
+* <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 13.02 h - 总时长: 29.23 h
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 11.30 h - 总时长: 40.95 h
 * <a href='https://store.steampowered.com/app/1222670' target='_blank'>The Sims™ 4</a> - 最近游戏时长: 1.05 h - 总时长: 1.05 h
 * <a href='https://store.steampowered.com/app/1217060' target='_blank'>Gunfire Reborn</a> - 最近游戏时长: 0.77 h - 总时长: 30.82 h
