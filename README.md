@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=bilibili%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D8258766&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&color=282c34&longCache=true" />
 <img src="https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDiaosSama&labelColor=282c34&color=181717&logo=github&longCache=true" />
 <!-- START_SECTION:steam_label -->
-<img src="https://img.shields.io/badge/Steam-107%20Games-0b1a37?logo=steam&labelColor=134375&longCache=true" />
+<img src="https://img.shields.io/badge/Steam-108%20Games-0b1a37?logo=steam&labelColor=134375&longCache=true" />
 <!-- END_SECTION:steam_label -->
 </p>
 
@@ -48,10 +48,10 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 13.02 h - 总时长: 29.23 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 12.27 h - 总时长: 43.98 h
-* <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 1.85 h - 总时长: 1.85 h
-* <a href='https://store.steampowered.com/app/1222670' target='_blank'>The Sims™ 4</a> - 最近游戏时长: 1.05 h - 总时长: 1.05 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 20.62 h - 总时长: 65.48 h
+* <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 9.13 h - 总时长: 11.22 h
+* <a href='https://store.steampowered.com/app/728880' target='_blank'>Overcooked! 2</a> - 最近游戏时长: 4.05 h - 总时长: 33.28 h
+* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 1.02 h - 总时长: 1.02 h
 <!-- END_SECTION:steam_game -->
 
 </td>
@@ -60,11 +60,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35593780/' target='_blank'>想读工作、消费主义和新穷人</a> - 2024-03-10
+* <a href='https://book.douban.com/subject/35593780/' target='_blank'>最近在读工作、消费主义和新穷人</a> - 2024-05-20
+* <a href='http://movie.douban.com/subject/24284175/' target='_blank'>看过九龙城寨之围城</a> - 2024-05-20
+* <a href='http://movie.douban.com/subject/36127872/' target='_blank'>看过新生</a> - 2024-05-20
 * <a href='http://movie.douban.com/subject/36059104/' target='_blank'>想看珍的不一样 第一季</a> - 2024-02-03
 * <a href='http://movie.douban.com/subject/35895850/' target='_blank'>想看量产型璃子-模型女子的人生组装记-</a> - 2024-01-16
-* <a href='http://movie.douban.com/subject/1292220/' target='_blank'>想看情书</a> - 2024-01-14
-* <a href='http://movie.douban.com/subject/3742360/' target='_blank'>看过让子弹飞</a> - 2023-10-12
 <!-- END_SECTION:douban -->
 
 </td>
