@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 17.03 h - 总时长: 97.17 h
+* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 15.98 h - 总时长: 97.17 h
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 5.22 h - 总时长: 96.20 h
 <!-- END_SECTION:steam_game -->
 
@@ -58,7 +58,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/1297192/' target='_blank'>想看致命ID</a> - 2024-06-24
+* <a href='https://book.douban.com/subject/35593780/' target='_blank'>最近在读工作、消费主义和新穷人</a> - 2024-05-20
+* <a href='http://movie.douban.com/subject/24284175/' target='_blank'>看过九龙城寨之围城</a> - 2024-05-20
+* <a href='http://movie.douban.com/subject/36127872/' target='_blank'>看过新生</a> - 2024-05-20
+* <a href='http://movie.douban.com/subject/36059104/' target='_blank'>想看珍的不一样 第一季</a> - 2024-02-03
 <!-- END_SECTION:douban -->
 
 </td>
