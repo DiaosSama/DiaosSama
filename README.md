@@ -48,8 +48,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 18.42 h - 总时长: 135.95 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 7.47 h - 总时长: 111.55 h
+* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 18.92 h - 总时长: 136.45 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 6.85 h - 总时长: 111.55 h
 <!-- END_SECTION:steam_game -->
 
 </td>
