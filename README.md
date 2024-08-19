@@ -48,8 +48,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 13.95 h - 总时长: 142.00 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 2.85 h - 总时长: 112.05 h
+* <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 13.65 h - 总时长: 142.00 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 3.72 h - 总时长: 112.90 h
 * <a href='https://store.steampowered.com/app/3132990' target='_blank'>Black Myth: Wukong Benchmark Tool</a> - 最近游戏时长: 1.75 h - 总时长: 1.75 h
 <!-- END_SECTION:steam_game -->
 
