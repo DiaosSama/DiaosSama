@@ -50,7 +50,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1245620' target='_blank'>ELDEN RING</a> - 最近游戏时长: 11.43 h - 总时长: 142.00 h
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 7.27 h - 总时长: 116.45 h
-* <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 4.48 h - 总时长: 4.48 h
+* <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 5.50 h - 总时长: 5.50 h
 * <a href='https://store.steampowered.com/app/3132990' target='_blank'>Black Myth: Wukong Benchmark Tool</a> - 最近游戏时长: 2.60 h - 总时长: 2.60 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.02 h - 总时长: 92.52 h
 <!-- END_SECTION:steam_game -->
