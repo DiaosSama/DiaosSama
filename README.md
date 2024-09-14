@@ -50,6 +50,7 @@
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 24.13 h - 总时长: 62.97 h
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 4.75 h - 总时长: 121.22 h
+* <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 0.05 h - 总时长: 11.28 h
 <!-- END_SECTION:steam_game -->
 
 </td>
