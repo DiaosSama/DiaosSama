@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 6.58 h - 总时长: 127.80 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 7.58 h - 总时长: 128.80 h
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 0.70 h - 总时长: 63.68 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.12 h - 总时长: 92.65 h
 * <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 0.05 h - 总时长: 11.28 h
@@ -60,7 +60,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2024-08-03
+* <a href='http://movie.douban.com/subject/3541415/' target='_blank'>看过盗梦空间</a> - 2024-08-03
+* <a href='http://movie.douban.com/subject/27140017/' target='_blank'>看过非自然死亡</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/27615441/' target='_blank'>想看网络谜踪</a> - 2024-07-14
+* <a href='http://movie.douban.com/subject/1297192/' target='_blank'>想看致命ID</a> - 2024-06-24
 <!-- END_SECTION:douban -->
 
 </td>
