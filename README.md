@@ -52,7 +52,6 @@
 * <a href='https://store.steampowered.com/app/3036080' target='_blank'>Shawarma Legend</a> - 最近游戏时长: 5.55 h - 总时长: 5.55 h
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 0.70 h - 总时长: 63.68 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.12 h - 总时长: 92.65 h
-* <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 0.05 h - 总时长: 11.28 h
 <!-- END_SECTION:steam_game -->
 
 </td>
