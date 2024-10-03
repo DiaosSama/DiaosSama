@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 7.57 h - 总时长: 129.97 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 6.55 h - 总时长: 129.97 h
 * <a href='https://store.steampowered.com/app/3036080' target='_blank'>Shawarma Legend</a> - 最近游戏时长: 5.55 h - 总时长: 5.55 h
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 0.70 h - 总时长: 63.68 h
 <!-- END_SECTION:steam_game -->
