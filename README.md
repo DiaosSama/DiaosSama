@@ -51,6 +51,7 @@
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 7.80 h - 总时长: 142.70 h
 * <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 1.35 h - 总时长: 12.65 h
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 1.03 h - 总时长: 64.72 h
+* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 0.02 h - 总时长: 67.13 h
 <!-- END_SECTION:steam_game -->
 
 </td>
