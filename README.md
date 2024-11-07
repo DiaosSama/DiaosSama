@@ -49,7 +49,7 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 26.15 h - 总时长: 93.28 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 5.97 h - 总时长: 145.08 h
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 4.95 h - 总时长: 145.08 h
 * <a href='https://store.steampowered.com/app/1145360' target='_blank'>Hades</a> - 最近游戏时长: 1.35 h - 总时长: 12.65 h
 * <a href='https://store.steampowered.com/app/2358720' target='_blank'>Black Myth: Wukong</a> - 最近游戏时长: 0.27 h - 总时长: 64.72 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.02 h - 总时长: 92.67 h
