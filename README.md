@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 9.38 h - 总时长: 102.68 h
+* <a href='https://store.steampowered.com/app/1086940' target='_blank'>Baldur's Gate 3</a> - 最近游戏时长: 10.12 h - 总时长: 103.40 h
 <!-- END_SECTION:steam_game -->
 
 </td>
