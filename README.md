@@ -37,11 +37,7 @@
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html' target='_blank'>Shiro反序列化漏洞复现</a> - 2020-06-30
-* <a href='https://www.diaossama.work/2020/05/windows-terminal-powershell.html' target='_blank'>Windows Terminal美化+PowerShell插件配置</a> - 2020-05-07
-* <a href='https://www.diaossama.work/2020/04/python-inherit-polymorphic.html' target='_blank'>关于Python的继承与多态</a> - 2020-04-02
-* <a href='https://www.diaossama.work/2020/03/sql-injection-summary.html' target='_blank'>SQL注入总结归纳</a> - 2020-03-10
-* <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - 2020-03-09
+
 <!-- END_SECTION:blog -->
       
 </td>
@@ -61,7 +57,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2024-08-03
+* <a href='http://movie.douban.com/subject/3541415/' target='_blank'>看过盗梦空间</a> - 2024-08-03
+* <a href='http://movie.douban.com/subject/27140017/' target='_blank'>看过非自然死亡</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/27615441/' target='_blank'>想看网络谜踪</a> - 2024-07-14
+* <a href='http://movie.douban.com/subject/1297192/' target='_blank'>想看致命ID</a> - 2024-06-24
 <!-- END_SECTION:douban -->
 
 </td>
