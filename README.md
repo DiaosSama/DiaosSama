@@ -53,7 +53,7 @@
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
 * <a href='https://store.steampowered.com/app/3003300' target='_blank'>ZM Desktop Elf</a> - 最近游戏时长: 0.97 h - 总时长: 0.97 h
-* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.30 h - 总时长: 92.98 h
+* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.58 h - 总时长: 93.25 h
 <!-- END_SECTION:steam_game -->
 
 </td>
