@@ -52,8 +52,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
+* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 1.73 h - 总时长: 146.82 h
 * <a href='https://store.steampowered.com/app/3003300' target='_blank'>ZM Desktop Elf</a> - 最近游戏时长: 0.97 h - 总时长: 0.97 h
-* <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 0.75 h - 总时长: 145.85 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.58 h - 总时长: 93.25 h
 <!-- END_SECTION:steam_game -->
 
