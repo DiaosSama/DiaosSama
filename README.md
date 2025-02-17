@@ -37,11 +37,7 @@
 #### 🤹‍♀️ <a href="https://www.diaossama.work/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://www.diaossama.work/2020/06/shiro-unserialize-vuln.html' target='_blank'>Shiro反序列化漏洞复现</a> - 2020-06-30
-* <a href='https://www.diaossama.work/2020/05/windows-terminal-powershell.html' target='_blank'>Windows Terminal美化+PowerShell插件配置</a> - 2020-05-07
-* <a href='https://www.diaossama.work/2020/04/python-inherit-polymorphic.html' target='_blank'>关于Python的继承与多态</a> - 2020-04-02
-* <a href='https://www.diaossama.work/2020/03/sql-injection-summary.html' target='_blank'>SQL注入总结归纳</a> - 2020-03-10
-* <a href='https://www.diaossama.work/2020/03/GXZYCTF2020-Writeup.html' target='_blank'>2020高校战疫CTF笔记</a> - 2020-03-09
+
 <!-- END_SECTION:blog -->
       
 </td>
@@ -55,6 +51,7 @@
 * <a href='https://store.steampowered.com/app/2357570' target='_blank'>Overwatch® 2</a> - 最近游戏时长: 1.73 h - 总时长: 146.82 h
 * <a href='https://store.steampowered.com/app/3003300' target='_blank'>ZM Desktop Elf</a> - 最近游戏时长: 0.97 h - 总时长: 0.97 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.58 h - 总时长: 93.25 h
+* <a href='https://store.steampowered.com/app/250820' target='_blank'>SteamVR</a> - 最近游戏时长: 0.18 h - 总时长: 5.23 h
 <!-- END_SECTION:steam_game -->
 
 </td>
