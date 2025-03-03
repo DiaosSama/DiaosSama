@@ -52,8 +52,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/250820' target='_blank'>SteamVR</a> - 最近游戏时长: 1.65 h - 总时长: 6.90 h
-* <a href='https://store.steampowered.com/app/438100' target='_blank'>VRChat</a> - 最近游戏时长: 0.30 h - 总时长: 4.77 h
+* <a href='https://store.steampowered.com/app/250820' target='_blank'>SteamVR</a> - 最近游戏时长: 0.90 h - 总时长: 6.90 h
+* <a href='https://store.steampowered.com/app/438100' target='_blank'>VRChat</a> - 最近游戏时长: 0.12 h - 总时长: 4.77 h
 <!-- END_SECTION:steam_game -->
 
 </td>
