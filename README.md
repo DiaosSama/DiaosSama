@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2943650' target='_blank'>FragPunk</a> - 最近游戏时长: 1.80 h - 总时长: 1.80 h
+* <a href='https://store.steampowered.com/app/2943650' target='_blank'>FragPunk</a> - 最近游戏时长: 1.93 h - 总时长: 1.93 h
 <!-- END_SECTION:steam_game -->
 
 </td>
