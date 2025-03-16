@@ -52,7 +52,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 6.17 h - 总时长: 6.17 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 7.13 h - 总时长: 7.13 h
 * <a href='https://store.steampowered.com/app/2943650' target='_blank'>FragPunk</a> - 最近游戏时长: 1.93 h - 总时长: 1.93 h
 * <a href='https://store.steampowered.com/app/2400400' target='_blank'>Feed The Cups Demo</a> - 最近游戏时长: 1.80 h - 总时长: 1.80 h
 <!-- END_SECTION:steam_game -->
