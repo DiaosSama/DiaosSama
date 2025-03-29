@@ -48,8 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 13.88 h - 总时长: 13.88 h
-* <a href='https://store.steampowered.com/app/2400400' target='_blank'>Feed The Cups Demo</a> - 最近游戏时长: 0.55 h - 总时长: 1.80 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 13.75 h - 总时长: 13.88 h
 <!-- END_SECTION:steam_game -->
 
 </td>
