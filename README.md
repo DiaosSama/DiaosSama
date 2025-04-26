@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 0.83 h - 总时长: 25.35 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 0.52 h - 总时长: 25.35 h
 * <a href='https://store.steampowered.com/app/2200650' target='_blank'>Bits & Bops Demo</a> - 最近游戏时长: 0.18 h - 总时长: 0.18 h
 <!-- END_SECTION:steam_game -->
 
