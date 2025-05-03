@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2200650' target='_blank'>Bits & Bops Demo</a> - 最近游戏时长: 0.18 h - 总时长: 0.18 h
+* <a href='https://store.steampowered.com/app/2200650' target='_blank'>Bits & Bops Demo</a> - 最近游戏时长: 0.28 h - 总时长: 0.28 h
 <!-- END_SECTION:steam_game -->
 
 </td>
