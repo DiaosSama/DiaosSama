@@ -48,9 +48,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/3489700' target='_blank'>Stellar Blade™</a> - 最近游戏时长: 15.13 h - 总时长: 15.13 h
-* <a href='https://store.steampowered.com/app/3564860' target='_blank'>Stellar Blade™ Demo</a> - 最近游戏时长: 2.58 h - 总时长: 4.47 h
-* <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.40 h - 总时长: 93.67 h
+* <a href='https://store.steampowered.com/app/3489700' target='_blank'>Stellar Blade™</a> - 最近游戏时长: 16.13 h - 总时长: 16.13 h
+* <a href='https://store.steampowered.com/app/3564860' target='_blank'>Stellar Blade™ Demo</a> - 最近游戏时长: 2.48 h - 总时长: 4.47 h
 <!-- END_SECTION:steam_game -->
 
 </td>
