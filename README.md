@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/3489700' target='_blank'>Stellar Blade™</a> - 最近游戏时长: 19.43 h - 总时长: 25.25 h
+* <a href='https://store.steampowered.com/app/3489700' target='_blank'>Stellar Blade™</a> - 最近游戏时长: 18.40 h - 总时长: 25.25 h
 <!-- END_SECTION:steam_game -->
 
 </td>
