@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 7.55 h - 总时长: 36.08 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 6.55 h - 总时长: 36.08 h
 <!-- END_SECTION:steam_game -->
 
 </td>
@@ -57,7 +57,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/DiaosSama/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2024-08-03
+* <a href='https://movie.douban.com/subject/3541415/' target='_blank'>看过盗梦空间</a> - 2024-08-03
+* <a href='https://movie.douban.com/subject/27140017/' target='_blank'>看过非自然死亡</a> - 2024-07-29
+* <a href='https://movie.douban.com/subject/27615441/' target='_blank'>想看网络谜踪</a> - 2024-07-14
+* <a href='https://movie.douban.com/subject/1297192/' target='_blank'>想看致命ID</a> - 2024-06-24
 <!-- END_SECTION:douban -->
 
 </td>
