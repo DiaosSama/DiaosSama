@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 2.10 h - 总时长: 38.20 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 2.62 h - 总时长: 38.70 h
 * <a href='https://store.steampowered.com/app/3489700' target='_blank'>Stellar Blade™</a> - 最近游戏时长: 1.13 h - 总时长: 31.58 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.42 h - 总时长: 94.10 h
 <!-- END_SECTION:steam_game -->
