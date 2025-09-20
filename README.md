@@ -48,8 +48,8 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 9.15 h - 总时长: 51.85 h
 * <a href='https://store.steampowered.com/app/3478050' target='_blank'>Road To Empress</a> - 最近游戏时长: 8.58 h - 总时长: 8.58 h
+* <a href='https://store.steampowered.com/app/2336220' target='_blank'>Feed The Cups</a> - 最近游戏时长: 8.18 h - 总时长: 51.85 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.17 h - 总时长: 94.27 h
 <!-- END_SECTION:steam_game -->
 
