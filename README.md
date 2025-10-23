@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/646570' target='_blank'>Slay the Spire</a> - 最近游戏时长: 7.60 h - 总时长: 7.60 h
+* <a href='https://store.steampowered.com/app/646570' target='_blank'>Slay the Spire</a> - 最近游戏时长: 8.60 h - 总时长: 8.60 h
 <!-- END_SECTION:steam_game -->
 
 </td>
