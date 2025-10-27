@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/3167020' target='_blank'>Escape from Duckov</a> - 最近游戏时长: 17.27 h - 总时长: 17.27 h
+* <a href='https://store.steampowered.com/app/3167020' target='_blank'>Escape from Duckov</a> - 最近游戏时长: 17.92 h - 总时长: 17.92 h
 * <a href='https://store.steampowered.com/app/646570' target='_blank'>Slay the Spire</a> - 最近游戏时长: 9.70 h - 总时长: 9.70 h
 <!-- END_SECTION:steam_game -->
 
