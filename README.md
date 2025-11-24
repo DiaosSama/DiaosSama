@@ -48,7 +48,6 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/3167020' target='_blank'>Escape from Duckov</a> - 最近游戏时长: 0.73 h - 总时长: 29.78 h
 * <a href='https://store.steampowered.com/app/431960' target='_blank'>Wallpaper Engine</a> - 最近游戏时长: 0.02 h - 总时长: 95.22 h
 <!-- END_SECTION:steam_game -->
 
