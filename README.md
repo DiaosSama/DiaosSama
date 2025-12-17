@@ -48,7 +48,7 @@
 
 #### 🎮 <a href="https://steamcommunity.com/id/diaossama/" target="_blank">Recent Games</a>
 <!-- START_SECTION:steam_game -->
-* <a href='https://store.steampowered.com/app/2379780' target='_blank'>Balatro</a> - 最近游戏时长: 3.78 h - 总时长: 6.20 h
+* <a href='https://store.steampowered.com/app/2379780' target='_blank'>Balatro</a> - 最近游戏时长: 3.30 h - 总时长: 6.20 h
 <!-- END_SECTION:steam_game -->
 
 </td>
